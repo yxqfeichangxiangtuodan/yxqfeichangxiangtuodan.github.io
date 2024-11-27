@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s21.ax1x.com/2024/11/27/pA4ISE9.jpg"
   name             : "李瑞江"
   pronouns         : "he"  
   bio              : "个人介绍"
